@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": 
+	{
+			"item": "minecraft:potion"
+	},
+	"result": "hot_cocoa:hot_water_bottle",
+	"experience": 10
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "hot_cocoa:block/nutcracker_block"
+  }
+}

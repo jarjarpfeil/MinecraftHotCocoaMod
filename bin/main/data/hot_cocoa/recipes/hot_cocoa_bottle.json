@@ -1,0 +1,36 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "hot_cocoa:hot_cocoa_mix"
+		},
+		{
+			"item": "hot_cocoa:hot_cocoa_mix"
+		},
+		{
+			"item": "hot_cocoa:hot_cocoa_mix"
+		},
+		{
+			"item": "hot_cocoa:hot_cocoa_mix"
+		},
+		{
+			"item": "hot_cocoa:hot_cocoa_mix"
+		},
+		{
+			"item": "hot_cocoa:hot_cocoa_mix"
+		},
+		{
+			"item": "hot_cocoa:hot_cocoa_mix"
+		},
+		{
+			"item": "hot_cocoa:hot_water_bottle"
+		},
+		{
+			"item": "minecraft:sugar"
+		}
+	],
+	"result":
+	{
+		"item": "hot_cocoa:hot_cocoa_bottle"
+	}
+}

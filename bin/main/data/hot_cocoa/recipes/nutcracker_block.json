@@ -1,0 +1,36 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:cocoa_beans"
+		},
+		{
+			"tag": "minecraft:logs"
+		},
+		{
+			"tag": "minecraft:logs"
+		},
+		{
+			"tag": "minecraft:logs"
+		},
+		{
+			"tag": "minecraft:logs"
+		},
+		{
+			"tag": "minecraft:logs"
+		},
+		{
+			"tag": "minecraft:logs"
+		},
+		{
+			"tag": "minecraft:logs"
+		},
+		{
+			"tag": "minecraft:logs"
+		}
+	],
+	"result":
+	{
+		"item": "hot_cocoa:nutcracker_block"
+	}
+}
